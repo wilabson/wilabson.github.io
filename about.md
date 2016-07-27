@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Coming Soon
+title: About
 permalink: /about/
 ---
 
