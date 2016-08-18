@@ -12,7 +12,7 @@
 }
 
 .header ul li {
-    padding: auto;
+    padding-left: 10px;
     display: inline;
 }
 .header ul li a {
