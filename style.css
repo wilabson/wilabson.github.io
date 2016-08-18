@@ -12,6 +12,7 @@
 }
 
 .header ul li {
+    margin: auto;
     display: inline;
 }
 .header ul li a {
